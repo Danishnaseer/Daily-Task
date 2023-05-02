@@ -1,0 +1,238 @@
+.xoo-cp-atcn {
+  font-size: 13px;
+}
+.stepaway {
+  font-size: 14px;
+}
+.xoo-cp-ptotal.sa_price span {
+  font-size: 13px;
+}
+.product-info .single_variation_wrap .quantity.buttons_added {
+  display: none !important;
+}
+.product-info .single_variation_wrap .single_add_to_cart_button.button {
+  width: 100%;
+  font-size: 18px;
+}
+.verify-buyer-text {
+  display: inline-block;
+}
+#wide-nav .flex-row {
+  border: none;
+}
+#review_form_wrapper {
+  padding: 0;
+}
+#footer .menu-item a {
+  color: #bfbfbf;
+}
+.product-main {
+  padding-bottom: 0 !important;
+}
+.shop-container .product-main .product-title {
+  margin-top: 10px;
+}
+.single_add_to_cart_button {
+  padding: 1px 55px;
+}
+.variations_form .si-var .variations,
+.variations_form .si-var .size-cont {
+  width: 100%;
+}
+p.d-info {
+  line-height: 1;
+}
+.product-main .product-short-description li {
+  font-size: 14px;
+}
+.shop-container .product-main .product-title {
+  font-size: 1.09em;
+}
+.top_coupan_line {
+  height: auto !important;
+}
+.dsk-img {
+  display: none;
+}
+.mb-img {
+  display: block !important;
+}
+.header-wrapper .header-bottom {
+  background-color: #ffffff;
+}
+a.xoo-cp-btn-ch.xcp-btn {
+  width: 82%;
+  margin-bottom: 50px;
+}
+.pd-cus div {
+  padding: 0 10px !important;
+}
+.bottom-club-line {
+  margin-left: 0 !important;
+  margin-right: 0 !important;
+}
+.bottom-club-line .join-club-button {
+  left: 50%;
+  width: 70%;
+}
+.social-ic a span {
+  margin-left: 12px;
+}
+.social-ic a {
+  width: 22%;
+  display: inline-block;
+  text-align: center;
+}
+div#nav_menu-13,
+div#nav_menu-12 {
+  width: 50%;
+  display: inline-block;
+  border-bottom: 1px solid #ccc;
+}
+div#nav_menu-13,
+div#nav_menu-15 {
+  width: 50%;
+  display: inline-block;
+  border-bottom: 1px solid #ccc;
+}
+div#nav_menu-13,
+div#nav_menu-17 {
+  width: 50%;
+  display: inline-block;
+  border-bottom: 1px solid #ccc;
+}
+div#nav_menu-13,
+div#nav_menu-18 {
+  width: 50%;
+  display: inline-block;
+  border-bottom: 1px solid #ccc;
+}
+.product-main .social-icons {
+  border-bottom: 1px solid #ccc;
+}
+.product-main .social-icons {
+  border-bottom: none;
+  text-align: center;
+  width: 100%;
+}
+.mak-line ul.tp-li li:nth-last-child(1) {
+  width: 100%;
+  float: initial;
+}
+.mak-line ul.tp-li li {
+  padding-right: 20px;
+  padding-left: 21px;
+}
+.product-main .product-short-description {
+  margin-bottom: 35px;
+}
+.mak-line ul.tp-li {
+  text-align: center;
+}
+.cus_ly_customer-tes .pg_top-heading {
+  font-size: 1.2em;
+}
+.cus_ly_customer-tes .cs_pg_content ul.cus-logo li {
+  width: 47%;
+  margin: 0;
+}
+.cus_ly_customer-tes .cs_pg_content ul.cus-logo {
+  margin: 0;
+}
+.coupon-popup {
+  height: 95px;
+  width: 92%;
+  bottom: 5px;
+  padding: 7px;
+}
+.coupon-popup p:nth-of-type(1) {
+  font-size: 1.2em;
+  line-height: 1.5;
+  padding: 0 30px;
+}
+.variations_form .single_variation_wrap .woocommerce-variation-price {
+  text-align: left;
+  margin-right: 0;
+}
+.page-title.shop-page-title.product-page-title {
+  display: none;
+}
+.re-sli-rating .rev-slider {
+  order: 2;
+  border-right: none;
+  border-top: 1px solid #ddd8;
+  padding-top: 15px;
+}
+.re-sli-rating .rev-content {
+  order: 1;
+}
+.re-sli-rating .flickity-page-dots .dot {
+  margin: 0 3px;
+}
+.rs-mback {
+  text-align: center;
+  padding-left: 0px;
+}
+.header-search-form-wrapper .search-field {
+  height: 2.9em !important;
+}
+b,
+strong {
+  font-weight: 500;
+}
+.h1,
+h1 {
+  font-size: 1.5em;
+  line-height: inherit;
+  font-weight: 600;
+}
+h3 {
+  font-size: 1em;
+}
+h5.uppercase.mt {
+  font-weight: 600;
+}
+form.variations_form.cart {
+  margin-bottom: 0.8em;
+}
+.cartpagebtnmobile_text {
+  font-weight: 600;
+  font-size: 1.1em;
+}
+.cartpagebtnmobile {
+  margin-top: 20px;
+}
+section.wholesale-sec {
+  padding: 0px !important;
+}
+.container.section-title-container.trusted_testimonail
+  h3
+  span.section-title-main {
+  font-size: 100% !important;
+}
+.container.section-title-container.testimonailpage h3 span.section-title-main {
+  font-size: 101% !important;
+}
+.toplineenter > span.toplineNo {
+  font-size: 15px;
+}
+.panel.entry-content p {
+  font-size: 14px;
+}
+.panel.entry-content h2 {
+  font-size: 15px;
+}
+.toplineenter > span.toplineNo {
+  font-size: 13px;
+}
+.accordion-title {
+  font-size: 14px;
+}
+.insurance.deskt {
+  width: 100%;
+  margin-bottom: 15px;
+}
+
+.sticky-add-to-cart__product {
+  display: none !important;
+}
